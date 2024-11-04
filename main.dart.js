@@ -35458,7 +35458,7 @@ q.e=new A.aC(A.dZ(B.b0,s,p),new A.ak(B.DN,B.h,r),r.h("aC<ac.T>"))
 q.d.d3()},
 l(){this.d.l()
 this.Qt()},
-M(a){var s,r,q=null,p=t.w,o=A.X(a,q,p).w,n=A.Bb("assets/images/desktop-image.jpg",B.fF,A.X(a,q,p).w.a.b,A.X(a,q,p).w.a.a),m=A.X(a,q,p).w
+M(a){var s,r,q=null,p=t.w,o=A.X(a,q,p).w,n=A.Bb("images/desktop-image.jpg",B.fF,A.X(a,q,p).w.a.b,A.X(a,q,p).w.a.a),m=A.X(a,q,p).w
 p=A.X(a,q,p).w
 p=A.bG(q,q,B.n,q,q,new A.cb(q,q,q,q,q,new A.lj(B.fA,B.fB,B.c1,A.b([B.k8,A.M(204,152,147,218),A.M(153,152,147,218),A.M(102,152,147,218),A.M(51,152,147,218),A.M(0,152,147,218)],t.t_),q,q),B.T),q,m.a.b,q,q,q,q,p.a.a)
 m=Math.min(50,$.bR().cO(50))
